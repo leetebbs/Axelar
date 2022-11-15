@@ -2,8 +2,12 @@
 
 My cross chain tx from polygon to avalanche:
 https://testnet.snowtrace.io/tx/0x59aa762366d60b48cc2f95345918384b2decb1d50915cc2b44e391b43131cc68
+
 polygon:
 https://mumbai.polygonscan.com/tx/0x94e8c0396a30a52e2b67cddec56a0ff84fe8a31ab94e7219390709019adec45c
+
+Axelarscan:
+https://testnet.axelarscan.io/gmp/0x94e8c0396a30a52e2b67cddec56a0ff84fe8a31ab94e7219390709019adec45c:63
 
 ![Screenshot](Capture.JPG)
 
